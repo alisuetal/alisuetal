@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Alison.
+- ⚛️ Me interesso em Ciência de Dados, Programação e Design, nessa ordem.
+- 🌱 Atualmente masterizando Machine Learning (utilizando Python) e React.JS.
+- 📫 Você pode me contatar através do meu e-mail "a.docalves@gmail" e por aqui.
