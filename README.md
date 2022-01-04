@@ -1,3 +1,4 @@
+
 <h1 align="left">
 
 <p>
@@ -53,8 +54,10 @@ class  Info  extends  StatelessWidget{
 
 <a  href="https://abhigyantrips.dev/">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisuetal&langs_count=10&theme=onedark&layout=compact" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisuetal&langs_count=10&theme=onedark&layout=compact&hide_border=true" />
 	
+<br>
+
 <br>
 
 <img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=alisuetal&show_icons=true&theme=onedark&hide_border=true" />
