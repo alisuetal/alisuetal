@@ -43,8 +43,6 @@ class  Info  extends  StatelessWidget{
 
 <p  align="left">
 
-<a  href="https://abhigyantrips.dev/">
-
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisuetal&langs_count=10&theme=onedark&layout=compact&hide_border=true" />
 	
 <br>
@@ -54,8 +52,6 @@ class  Info  extends  StatelessWidget{
 <img  width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=alisuetal&show_icons=true&theme=onedark&hide_border=true" />
 
 <img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=alisuetal&theme=onedark&hide_border=true" />
-
-</a>
 
 </p>
 
