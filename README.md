@@ -4,7 +4,7 @@
 <p>🌐 Curso Análise e Desenvolvimento de Sistemas, quinto semestre.</p>
 <p>🖥️ Programo em dart, <a href="https://flutter.dev/">Flutter</a>.</p>
 <p>📖 Possuo conhecimento em <a href="https://pt-br.reactjs.org/">React.JS</a>.</p>
-<p>🧮 Tenho paixão por Ciência de Dados e Design (UI/UX), e estudo ambos em segundo plano.</p>
+<p>🧮 Tenho paixão por Ciência de Dados (com conhecimentos em MySQL e Firebase) e Design (UI/UX), e estudo ambos em segundo plano.</p>
 <p>✉️ Contato: <a href="mailto:a.docalves@gmail.com">a.docalves@gmail.com</a> ou <a href="https://www.linkedin.com/in/alison-alves/">https://www.linkedin.com/in/alison-alves/<a></p>
 </h1>
 
