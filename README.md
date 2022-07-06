@@ -1,7 +1,7 @@
 ## <img src="https://media0.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50"> Sobre mim &nbsp;&nbsp;<img  src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">&nbsp;<img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 <p>🏷️ Olá, eu sou o Alisu (Alison Alves) e tenho 20 anos!</p>
-<p>🌐 Curso Análise e Desenvolvimento de Sistemas, quinto semestre.</p>
+<p>🌐 Curso Análise e Desenvolvimento de Sistemas, sexto semestre.</p>
 <p>🖥️ Programo em dart, <a href="https://flutter.dev/">Flutter</a>.</p>
 <p>📖 Possuo conhecimento em <a href="https://pt-br.reactjs.org/">React.JS</a>.</p>
 <p>🧮 Tenho paixão por Ciência de Dados (com conhecimentos em MySQL e Firebase) e Design (UI/UX), e estudo ambos em segundo plano.</p>
